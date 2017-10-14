@@ -1,0 +1,1 @@
+rm -rf sendEmail.zip && zip -r sendEmail.zip . && /Users/janfabian/Library/Python/2.7/bin/aws lambda update-function-code --function-name sendEmail --zip-file fileb://~/dev/api.terezafabianova.cz/sendEmail.zip
