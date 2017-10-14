@@ -1,0 +1,19 @@
+{
+  "name": "api.terezafabianova.cz",
+  "version": "1.0.0",
+  "description": "API for www.terezafabianova.cz",
+  "main": "index.js",
+  "repository": "https://github.com/janfabian/api.terezafabianova.cz",
+  "dependencies": {
+    "markup-js": "^1.5.21",
+    "q-encoding": "^1.0.0",
+    "recaptcha2": "^1.3.2",
+    "utf8": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

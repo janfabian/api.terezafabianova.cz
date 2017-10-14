@@ -1,0 +1,17 @@
+*.DS_Store
+# Logs
+logs
+*.log
+npm-debug.log*
+# Runtime data
+pids
+.nyc_output
+*.pid
+*.seed
+*.pid.lock
+# Dependency directories
+node_modules/
+jspm_packages/
+.env
+.env.test
+*.zip
